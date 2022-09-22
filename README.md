@@ -11,3 +11,9 @@ Administrator allocates unique username and password to the employees.
 Each employee can log with the help of his/her unique id and password. 
 Purchase and Sales module contains all the purchase and sales details. 
 All the payment details will be shown in the Billing module.
+
+SOFTWARE SPECIFICATION
+• Operating System: Windows Vista/7/8/10
+• Front End: php, CSS
+• Rear End: MySQL 
+
